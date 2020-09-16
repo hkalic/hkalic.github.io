@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my 20 years of experience in IT sector providing software development, support, ERP implementation, user education and DevOps-like processes  
 
 - 📫 How to reach me:  
-![LinkedIn](/assets/LinkedIn.png)  
+![LinkedIn](/assets/LinkedIn_16x16.bmp)
 [LinkedIn](https://www.linkedin.com/in/hrvojekalic)  
 :e-mail: <hkalic123@gmail.com>
