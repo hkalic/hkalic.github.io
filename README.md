@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my 20+ years of experience in IT sector providing software development, support, ERP implementation, user education and DevOps-like processes  
 
 - How to reach me:  
-![GitHub](/assets/GitHub_20x20.bmp) [GitHub](https://hkalic.github.io/) (broken)  
+![GitHub](/assets/GitHub_20x20.bmp) [GitHub](https://github.com/hkalic?tab=repositories/)  
 ![LinkedIn](/assets/LinkedIn_20x20.bmp) [LinkedIn](https://www.linkedin.com/in/hrvojekalic)  
-:e-mail: <hkalic123@gmail.com>
+📫 <hkalic123@gmail.com>
