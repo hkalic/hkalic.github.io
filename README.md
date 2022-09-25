@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - How to reach me:  
 ![GitHub](/assets/GitHub_20x20.bmp) [GitHub](https://github.com/hkalic/AboutMe)  
 ![LinkedIn](/assets/LinkedIn_20x20.bmp) [LinkedIn](https://www.linkedin.com/in/hrvojekalic)  
-📫 <hkalic123@gmail.com>
+📧 <hkalic123@gmail.com>
